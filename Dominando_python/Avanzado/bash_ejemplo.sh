@@ -1,0 +1,1 @@
+echo "Texto escrito desde bash"

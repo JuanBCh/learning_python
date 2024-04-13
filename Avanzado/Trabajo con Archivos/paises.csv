@@ -1,0 +1,8 @@
+# csv coma separated values
+# Nos permite guardar archivos de forma sencilla y se guarda en formato .csv
+# Los datos representan tablas. Los datos separados por comas son columnas y las lineas del codigo son las filas
+
+pais,capital
+Colombia,Bogota
+Espania,Madrid
+Argentina,Buenos Aires
