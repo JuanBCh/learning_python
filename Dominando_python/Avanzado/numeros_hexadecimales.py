@@ -9,4 +9,5 @@ hex_15 = "0xf"
 hex_10 = "0xa"
 resultado_str = int(hex_15, 16) + int(hex_10, 16)
 print(resultado_str)
+
 print(hex(resultado_str))
